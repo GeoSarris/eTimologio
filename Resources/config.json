@@ -2,9 +2,9 @@
     "url": "https://mydata.aade.gr/timologio/Account/Login?ReturnUrl=%2Ftimologio",
     "browser": "chrome",
     "credentials": {
-        "username": "142883079V",
-        "vatNumber": "142883079",
-        "subKey": "6422a5123e9444eba8117e0f3c821c57"
+        "username": "",
+        "vatNumber": "",
+        "subKey": ""
     },
     "customersCountry": "GR",
     "customersName": "Giorgos Papadopoulos",
