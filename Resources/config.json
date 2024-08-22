@@ -1,0 +1,28 @@
+{
+    "url": "https://mydata.aade.gr/timologio/Account/Login?ReturnUrl=%2Ftimologio",
+    "browser": "chrome",
+    "credentials": {
+        "username": "142883079V",
+        "vatNumber": "142883079",
+        "subKey": "6422a5123e9444eba8117e0f3c821c57"
+    },
+    "customersCountry": "GR",
+    "customersName": "Giorgos Papadopoulos",
+    "invoiceMain": "58",
+    "invoiceTax": "56",
+    "series": "-",
+    "paymentMethod": "7",
+    "serviceProvision": "1",
+    "serviceTax": "100",
+    "priceWithTax": "500",
+    "vatPercentage": "2",
+    "vatExceptionType": "16",
+    "vatDummyParam": "000000000",
+    "paymentInAdvanced": true,
+    "advancedPaymentWithTax": "200",
+    "taxCategoryComment": "category1_95",
+    "invoiceComment": "Προκαταβολή",
+    "taxType": "3",
+    "taxCategory": "10",
+    "taxPrice": "20"
+}
