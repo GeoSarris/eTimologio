@@ -1,5 +1,6 @@
 # eTimologio
 
+
 ## Repository Contents:
 - **Base\driverSetUp.js:**
   - Creates a driver for either Chrome, Firefox, or Edge browser.
@@ -16,6 +17,7 @@
   - **Third step (optional):** Creates the invoice of an advanced payment.
   - **Fourth step:** Creates the tax invoice.
   - (The script doesn't auto exit on purpose.)
+  - (Many of the sleep function will be replaced in an update.)
 
 ## Available Values for Used Parameters:
 - `"customersCountry"`: 
