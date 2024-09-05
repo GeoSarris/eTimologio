@@ -22,7 +22,7 @@ async function createDriver() {
     //await driver.manage().window().setRect({width:1280,height:800});
     //Use this for a UI run.
     await driver.manage().window().maximize();
-    await driver.manage().setTimeouts(({ implicit: 2000 }));
+    await driver.manage().setTimeouts({ implicit: 2000 });
     return driver;
 
 }

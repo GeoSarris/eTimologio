@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "etimologio": "file:",
     "mocha": "^10.7.3",
     "selenium-webdriver": "^4.23.0"
   }

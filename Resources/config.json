@@ -14,7 +14,7 @@
     "paymentMethod": "7",
     "serviceProvision": "1",
     "serviceTax": "100",
-    "priceWithTax": "500",
+    "priceWithVat": "500",
     "vatPercentage": "2",
     "vatExceptionType": "16",
     "vatDummyParam": "000000000",

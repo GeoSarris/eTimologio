@@ -57,11 +57,22 @@ const locators = {
 
     // Temp save locators
     tempInvoiceSaveButton: By.id("btnTempSaveInvoice"),
+    backToTopButton: By.id("back-to-top"),
     acceptTempButton: By.xpath("//button[@class='btn btn-warning btn-sm rounded bootbox-accept']"),
     finalOkButton: By.xpath("//input[@value='OK']"),
 
     // Logo img for refresh
     logoImg: By.id("imgLogo"),
+
+    // Modals for Invoices
+    addInvoiceModal: By.xpath("//div[@name='addInvoiceLineModal']"),
+    classificationModal: By.id("classificationModal"),
+    
+    // Modals for tempSave
+    firstModal: By.xpath("//div[@class='bootbox modal fade bootbox-confirm show']"),
+    secondModal: By.xpath("//div[@id='_msgboxdlgundefined']//div[@class='modal-dialog modal-dialog-scrollable']"),
+
+
 };
 
 export { locators }
